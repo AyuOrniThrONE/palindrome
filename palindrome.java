@@ -18,9 +18,9 @@ public class palindrome {
                     }
                     
                     if (temp == first) {
-                        System.out.println("wins");
+                        System.out.println("It is Palindrome");
                     } else {
-                        System.out.println("loses");
+                        System.out.println("It is not a Palindrome");
                     }
                     
                 }
